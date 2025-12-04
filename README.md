@@ -65,8 +65,7 @@ Google Gemini (Optional)
 
 📥 Installation
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/voice-study-assistant.git
-cd voice-study-assistant
+git clone https://github.com/BhaktiNemane2006/Voice-study-assistant/edit/main/README.md
 
 🖥️ Backend Setup (Python)
 pip install -r requirements.txt
