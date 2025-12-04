@@ -55,7 +55,7 @@ Fallback mode:
 - Ultra-low latency (<500ms)
 - High clarity for educational content
 
----
+
 
 💬 Interaction Flow
 
@@ -77,5 +77,25 @@ Used for:
 - Live transcription
 - Real-time chat messages
 - Updating UI instantly
+
+🧩 Key Advantages of Architecture
+
+- Fastest-in-class TTS engine (Murf Falcon)
+- Strong ASR accuracy (Deepgram)
+- Highly intelligent responses (Gemini)
+- Supports both voice & text
+- Works on mobile & desktop
+- Modular & expandable
+
+
+📌 Conclusion
+
+This architecture is optimized for:
+- Real-time interaction
+- Low latency voice output
+- Educational use-cases
+- High stability
+- Easy future scaling
+
 
 
