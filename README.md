@@ -50,25 +50,25 @@ Project: Voice Study Assistant
 ✨ Features
 🎧 Two-Way Voice Conversations
 
-Real-time microphone input
+1.Real-time microphone input
 
-Deepgram ASR converts speech to text
+2.Deepgram ASR converts speech to text
 
-Gemini AI understands the question
+3.emini AI understands the question
 
-Murf Falcon generates natural, fast, human-like voice replies
+4.Murf Falcon generates natural, fast, human-like voice replies
 
 📚 Study-Focused Intelligence
 
-Explains any topic
+-Explains any topic
 
-Generates summaries
+-Generates summaries
 
-Creates quizzes
+-Creates quizzes
 
-Revises concepts with you
+-Revises concepts with you
 
-Reads notes aloud
+-Reads notes aloud
 
 ✔ Additional Features
 
@@ -85,17 +85,17 @@ Reads notes aloud
 🚀 Quick Start
 🔧 Prerequisites
 
-Python 3.8+
+-Python 3.8+
 
-Microphone (optional, text mode available)
+-Microphone (optional, text mode available)
 
 API Keys:
 
-Murf Falcon TTS (Required)
+-Murf Falcon TTS (Required)
 
-Deepgram ASR (Optional)
+-Deepgram ASR (Optional)
 
-Google Gemini (Optional)
+-Google Gemini (Optional)
 
 📥 Installation
 1️⃣ Clone the Repository
@@ -238,11 +238,31 @@ Modes: Text / Voice
 
 🎥 Coming Soon — 
 
+📘 How It Works
+1. Voice Input
+
+User speaks → audio captured → sent to ASR.
+
+2. ASR Processing
+
+Speech converted to text.
+
+3. AI Response
+
+AI analyzes user intent & generates a study-oriented response.
+
+4. Murf Falcon TTS
+
+Text → high-quality natural speech via Falcon.
+
+5. Real-Time Output
+
+Audio response played instantly.
 ⚙️ Configuration
 Environment Variables:
-MURF_API_KEY=
-DEEPGRAM_API_KEY=
-GEMINI_API_KEY=
+ASSEMBLYAI_API_KEY=bfaa55e6ca694a188969b8978bf8a0ed
+MURF_API_KEY=ap2_67d7b6be-e74b-4e88-a83c-9b7e8a3cf904
+GROQ_API_KEY=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
 
 Backend (app.py) Can Configure:
 
@@ -252,10 +272,46 @@ GROQ_API_KEY=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
 
 Study modes
 
-Response style
+-Response style
 
-Audio playback settings
+-Audio playback settings
 
+🧠 Use Cases
+
+>Study assistant
+
+>Revision mentor
+
+>Note-reading assistant
+
+>Accessibility learning tool
+
+>AI tutor
+
+>Hands-free learning app
+
+>Voice-based knowledge navigator
+
+📝 Why This Project Stands Out
+✔ Strong Innovation (25%)
+
+A unique approach to education using voice-first interaction.
+
+✔ Deep Integration with Murf Falcon (25%)
+
+The entire assistant revolves around Falcon’s real-time speech output.
+
+✔ Smooth UX (25%)
+
+Responsive, natural, conversational experience.
+
+✔ Strong Technical Execution (15%)
+
+Clean code, modular design, secure API handling.
+
+✔ High-Quality Presentation (10%)
+
+Clear documentation + demo video + strong LinkedIn presence.
 
 🐛 Troubleshooting
 ❌ Microphone Not Working
@@ -290,6 +346,9 @@ Restart browser
 🤝 Contributing
 
 This is a hackathon project — feel free to fork, remix, and experiment!
+
+🏷️ Hackathon Tag
+murf-ai
 
 👤 Author
 
