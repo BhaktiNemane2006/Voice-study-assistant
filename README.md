@@ -161,24 +161,18 @@ AI Engine: Google Gemini
 ✔ Revision partner
 ✔ Interactive teaching tool
 
-📁 Project Structure
 voice-study-assistant/
-├── app.py                    # Backend server
-├── voice_assistant.py        # CLI version
-├── tts_falcon.py             # Murf API wrapper
-├── asr_deepgram.py           # Speech recognition logic
-├── ai_engine.py              # Gemini / fallback logic
-├── audio_utils.py            # Audio playback/recording
-├── requirements.txt          # Python dependencies
-├── .env.example              # Sample env file
-├── README.md                 # This documentation
-├── assets/                   # Logos, screenshots
+├── app.py              # main backend / voice assistant script
+├── requirements.txt    # Python packages
+├── .env.example        # example env vars (no real keys)
+├── README.md           # we already wrote this 😀
+├── LICENSE             # optional, e.g. MIT
+├── assets/             # logo, screenshots
 │   ├── logo.png
 │   └── demo_screenshots/
-└── docs/
-    ├── flowchart.png         # Voice flow diagram
+└── docs/               # extra docs
     ├── architecture.md
-    └── pitch_slides.pdf
+    └── flowchart.png
 
 🔧 Technical Stack
 Backend (Python)
