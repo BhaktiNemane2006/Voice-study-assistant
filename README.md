@@ -42,9 +42,13 @@ According to the requirements in the official document Murf_Voice_Agent_Hackatho
 🏆 Hackathon Details
 
 Event: Techfest 2025-26 – Murf AI Voice Agent Hackathon
+
 Institution: IIT Bombay
+
 Category: Voice-Application
+
 Team ID: Murf-250408
+
 Project: Voice Study Assistant
 
 ✨ Features
@@ -54,7 +58,7 @@ Project: Voice Study Assistant
 
 2.Deepgram ASR converts speech to text
 
-3.emini AI understands the question
+3.Gemini AI understands the question
 
 4.Murf Falcon generates natural, fast, human-like voice replies
 
