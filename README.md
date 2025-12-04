@@ -162,7 +162,9 @@ AI Engine: Google Gemini
 ✔ Interactive teaching tool
 
 📁 Project Structure
-<img width="329" height="301" alt="Screenshot 2025-12-04 100921" src="https://github.com/user-attachments/assets/d13086fc-fdb0-4605-8e82-da9b5b454263" />
+
+<img width="604" height="422" alt="image" src="https://github.com/user-attachments/assets/4106b983-2a13-49b3-a988-d75e9991f1d3" />
+
 
 
 🔧 Technical Stack
