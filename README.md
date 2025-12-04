@@ -161,18 +161,9 @@ AI Engine: Google Gemini
 ✔ Revision partner
 ✔ Interactive teaching tool
 
-voice-study-assistant/
-├── app.py              # main backend / voice assistant script
-├── requirements.txt    # Python packages
-├── .env.example        # example env vars (no real keys)
-├── README.md           # we already wrote this 😀
-├── LICENSE             # optional, e.g. MIT
-├── assets/             # logo, screenshots
-│   ├── logo.png
-│   └── demo_screenshots/
-└── docs/               # extra docs
-    ├── architecture.md
-    └── flowchart.png
+📁 Project Structure
+<img width="329" height="301" alt="Screenshot 2025-12-04 100921" src="https://github.com/user-attachments/assets/d13086fc-fdb0-4605-8e82-da9b5b454263" />
+
 
 🔧 Technical Stack
 Backend (Python)
