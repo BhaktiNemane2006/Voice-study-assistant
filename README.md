@@ -103,7 +103,7 @@ API Keys:
 
 📥 Installation
 1️⃣ Clone the Repository
-git clone https://github.com/BhaktiNemane2006/Voice-study-assistant/edit/main/README.md
+git clone https://github.com/BhaktiNemane2006/Voice-study-assistant
 
 🖥️ Backend Setup (Python)
 pip install -r requirements.txt
