@@ -1,0 +1,8 @@
+openai>=1.0.0
+requests
+python-dotenv
+sounddevice
+scipy
+murf
+playsound==1.2.2
+groq
