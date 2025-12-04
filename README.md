@@ -238,7 +238,47 @@ Memory footprint: Low
 
 Modes: Text / Voice
 
-📹 Demo Video
+📹 Demo Video:
+
+🎧 INTRO (5–7 seconds)
+
+“Hi everyone! I’m Bhakti, and this is my submission for the Techfest IIT Bombay – Murf Voice Agent Hackathon: Voice Study Assistant, built using Murf Falcon, the consistently fastest TTS API.”
+
+⚡PART 1 – What it does (15 seconds)
+
+“Voice Study Assistant is a real-time, hands-free study companion. It listens to your voice, understands your questions, and responds instantly with natural, human-like speech using Murf Falcon.”
+
+🛠️ PART 2 – Tech Stack (20 seconds)
+
+“It uses ASR for speech-to-text, an AI brain for context understanding, and Murf Falcon TTS to speak responses.
+Everything runs securely with environment variables.”
+
+📱 PART 3 – Live Demo (1 minute)
+
+Google drive Video Link:
+
+Example demo dialogue:
+
+You: “Explain Newton’s First Law.”
+Assistant (Falcon Voice): “Newton’s First Law states that an object remains at rest or in uniform motion unless acted upon by an external force.”
+
+You: “Give me a short summary of photosynthesis.”
+Assistant: “Photosynthesis is the process where plants use sunlight to convert carbon dioxide and water into food and oxygen.”
+
+You: “Prepare a quick revision quiz for me.”
+Assistant: “Sure! Question 1: What is the powerhouse of the cell…?”
+
+Show the real-time speed of Falcon → highlight clarity.
+
+⚡ PART 4 – Why Murf Falcon? (20 seconds)
+
+“Falcon’s ultra-low latency and natural voice output make it perfect for conversational learning. The fast TTS makes the assistant feel alive and responsive.”
+
+🏁 OUTRO (10 seconds)
+
+“This was my project — Voice Study Assistant.
+Built using Murf Falcon.
+Thank you for watching!”
 
 🎥 Coming Soon — 
 
