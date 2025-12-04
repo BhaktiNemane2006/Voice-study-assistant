@@ -9,17 +9,17 @@ Combines Murf Falcon TTS, Deepgram ASR, and Google Gemini AI to create an intell
 
 Voice Study Assistant is a real-time conversational study companion designed to help students learn hands-free through seamless voice interaction. Built using the Murf Falcon TTS API and ASR-based speech recognition, it enables natural, responsive, and meaningful dialogue to assist with:
 
-Explaining study concepts
+✔Explaining study concepts
 
-Reading notes aloud
+✔Reading notes aloud
 
-Generating quick definitions
+✔Generating quick definitions
 
-Solving doubts in real time
+✔Solving doubts in real time
 
-Providing summaries
+✔Providing summaries
 
-Offering interactive study sessions
+✔Offering interactive study sessions
 
 This project demonstrates how Murf Falcon delivers extremely fast, natural, and production-grade speech, unlocking new possibilities for voice-driven learning experiences.
 
@@ -28,10 +28,15 @@ This project demonstrates how Murf Falcon delivers extremely fast, natural, and 
 According to the requirements in the official document Murf_Voice_Agent_Hackathon,this project:
 
 ✔ Integrates Murf Falcon TTS for real-time high-quality voice output
+
 ✔ Uses ASR (Automatic Speech Recognition) for two-way conversation
+
 ✔ Is fully functional as a voice agent prototype
+
 ✔ Stores API keys securely via environment variables
+
 ✔ Uses the allocated free 1,000,000 Falcon characters
+
 ✔ Includes complete setup instructions, documentation & demo video
 
 🏆 Hackathon Details
