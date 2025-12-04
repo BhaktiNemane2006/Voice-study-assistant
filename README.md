@@ -297,6 +297,7 @@ Study modes
 >Voice-based knowledge navigator
 
 📝 Why This Project Stands Out
+
 ✔ Strong Innovation (25%)
 
 A unique approach to education using voice-first interaction.
